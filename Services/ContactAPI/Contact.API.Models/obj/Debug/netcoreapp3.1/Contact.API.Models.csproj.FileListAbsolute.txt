@@ -1,0 +1,10 @@
+H:\2021\MicroServices\Microservices\Services\ContactAPI\Contact.API.Models\bin\Debug\netcoreapp3.1\Contact.API.Models.deps.json
+H:\2021\MicroServices\Microservices\Services\ContactAPI\Contact.API.Models\bin\Debug\netcoreapp3.1\Contact.API.Models.dll
+H:\2021\MicroServices\Microservices\Services\ContactAPI\Contact.API.Models\bin\Debug\netcoreapp3.1\Contact.API.Models.pdb
+H:\2021\MicroServices\Microservices\Services\ContactAPI\Contact.API.Models\obj\Debug\netcoreapp3.1\Contact.API.Models.csproj.AssemblyReference.cache
+H:\2021\MicroServices\Microservices\Services\ContactAPI\Contact.API.Models\obj\Debug\netcoreapp3.1\Contact.API.Models.GeneratedMSBuildEditorConfig.editorconfig
+H:\2021\MicroServices\Microservices\Services\ContactAPI\Contact.API.Models\obj\Debug\netcoreapp3.1\Contact.API.Models.AssemblyInfoInputs.cache
+H:\2021\MicroServices\Microservices\Services\ContactAPI\Contact.API.Models\obj\Debug\netcoreapp3.1\Contact.API.Models.AssemblyInfo.cs
+H:\2021\MicroServices\Microservices\Services\ContactAPI\Contact.API.Models\obj\Debug\netcoreapp3.1\Contact.API.Models.csproj.CoreCompileInputs.cache
+H:\2021\MicroServices\Microservices\Services\ContactAPI\Contact.API.Models\obj\Debug\netcoreapp3.1\Contact.API.Models.dll
+H:\2021\MicroServices\Microservices\Services\ContactAPI\Contact.API.Models\obj\Debug\netcoreapp3.1\Contact.API.Models.pdb

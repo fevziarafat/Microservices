@@ -1,0 +1,13 @@
+H:\2021\MicroServices\Microservices\Services\ReservationAPI\Reservation.API.Infrastructure\bin\Debug\netcoreapp3.1\Reservation.API.Infrastructure.deps.json
+H:\2021\MicroServices\Microservices\Services\ReservationAPI\Reservation.API.Infrastructure\bin\Debug\netcoreapp3.1\Reservation.API.Infrastructure.dll
+H:\2021\MicroServices\Microservices\Services\ReservationAPI\Reservation.API.Infrastructure\bin\Debug\netcoreapp3.1\Reservation.API.Infrastructure.pdb
+H:\2021\MicroServices\Microservices\Services\ReservationAPI\Reservation.API.Infrastructure\bin\Debug\netcoreapp3.1\Reservation.API.Models.dll
+H:\2021\MicroServices\Microservices\Services\ReservationAPI\Reservation.API.Infrastructure\bin\Debug\netcoreapp3.1\Reservation.API.Models.pdb
+H:\2021\MicroServices\Microservices\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\netcoreapp3.1\Reservation.API.Infrastructure.csproj.AssemblyReference.cache
+H:\2021\MicroServices\Microservices\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\netcoreapp3.1\Reservation.API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+H:\2021\MicroServices\Microservices\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\netcoreapp3.1\Reservation.API.Infrastructure.AssemblyInfoInputs.cache
+H:\2021\MicroServices\Microservices\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\netcoreapp3.1\Reservation.API.Infrastructure.AssemblyInfo.cs
+H:\2021\MicroServices\Microservices\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\netcoreapp3.1\Reservation.API.Infrastructure.csproj.CoreCompileInputs.cache
+H:\2021\MicroServices\Microservices\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\netcoreapp3.1\Reservation.API.Infrastructure.csproj.CopyComplete
+H:\2021\MicroServices\Microservices\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\netcoreapp3.1\Reservation.API.Infrastructure.dll
+H:\2021\MicroServices\Microservices\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\netcoreapp3.1\Reservation.API.Infrastructure.pdb

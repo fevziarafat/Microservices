@@ -1,0 +1,9 @@
+H:\2021\MicroServices\Microservices\Services\ReservationAPI\Reservation.API.Models\bin\Debug\netcoreapp3.1\Reservation.API.Models.deps.json
+H:\2021\MicroServices\Microservices\Services\ReservationAPI\Reservation.API.Models\bin\Debug\netcoreapp3.1\Reservation.API.Models.dll
+H:\2021\MicroServices\Microservices\Services\ReservationAPI\Reservation.API.Models\bin\Debug\netcoreapp3.1\Reservation.API.Models.pdb
+H:\2021\MicroServices\Microservices\Services\ReservationAPI\Reservation.API.Models\obj\Debug\netcoreapp3.1\Reservation.API.Models.GeneratedMSBuildEditorConfig.editorconfig
+H:\2021\MicroServices\Microservices\Services\ReservationAPI\Reservation.API.Models\obj\Debug\netcoreapp3.1\Reservation.API.Models.AssemblyInfoInputs.cache
+H:\2021\MicroServices\Microservices\Services\ReservationAPI\Reservation.API.Models\obj\Debug\netcoreapp3.1\Reservation.API.Models.AssemblyInfo.cs
+H:\2021\MicroServices\Microservices\Services\ReservationAPI\Reservation.API.Models\obj\Debug\netcoreapp3.1\Reservation.API.Models.csproj.CoreCompileInputs.cache
+H:\2021\MicroServices\Microservices\Services\ReservationAPI\Reservation.API.Models\obj\Debug\netcoreapp3.1\Reservation.API.Models.dll
+H:\2021\MicroServices\Microservices\Services\ReservationAPI\Reservation.API.Models\obj\Debug\netcoreapp3.1\Reservation.API.Models.pdb
